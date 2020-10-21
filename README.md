@@ -1,5 +1,5 @@
 # AILaw
 
-##Paper
+## Paper
 
 ### Lagal Prediction
